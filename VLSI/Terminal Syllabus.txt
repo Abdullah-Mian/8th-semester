@@ -1,0 +1,6 @@
+Paper pattern for the terminal evaluation: 
+‎Q#1: Design of combinational circuits (Ch#9)
+‎Q#2: Design of sequential circuits (Ch#1&10)
+‎Q#3: Delay of CMOS circuits (Ch#4&9)
+‎Q#4: Datapath design (Ch#11)
+‎Q#5: Memory arrays (Ch#12)
